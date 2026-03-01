@@ -128,7 +128,7 @@ export default function FooterSection() {
         </div>
         <div className="footer_legal-wpr">
           <div className="footer_year">
-            ®<span className="this-year">this-year</span> Mexico City
+            ®<span className="this-year">this-year</span> Chennai City
           </div>
           <a
             href="https://www.yungle.com.mx/privacy-policy"

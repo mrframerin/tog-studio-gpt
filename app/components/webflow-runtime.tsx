@@ -199,6 +199,9 @@ function initWebflowAndSwiper() {
 export default function WebflowRuntime() {
   useEffect(() => {
     let isActive = true;
+    let started = false;
+    let timeoutId: ReturnType<typeof setTimeout> | null = null;
+    let idleId: number | null = null;
 
     const init = async () => {
       try {
@@ -214,10 +217,56 @@ export default function WebflowRuntime() {
       }
     };
 
-    init();
+    const boot = () => {
+      if (started || !isActive) return;
+      started = true;
+      detachInteractionListeners();
+      init();
+    };
+
+    const onFirstInteraction = () => {
+      boot();
+    };
+
+    const interactionEvents: Array<keyof WindowEventMap> = [
+      "pointerdown",
+      "touchstart",
+      "keydown",
+      "scroll"
+    ];
+
+    const detachInteractionListeners = () => {
+      interactionEvents.forEach((eventName) => {
+        window.removeEventListener(eventName, onFirstInteraction);
+      });
+    };
+
+    interactionEvents.forEach((eventName) => {
+      window.addEventListener(eventName, onFirstInteraction, { passive: true });
+    });
+
+    const browser = globalThis as unknown as Window & {
+      requestIdleCallback?: (cb: IdleRequestCallback, options?: IdleRequestOptions) => number;
+      cancelIdleCallback?: (id: number) => void;
+    };
+
+    if (browser.requestIdleCallback) {
+      idleId = browser.requestIdleCallback(() => {
+        boot();
+      }, { timeout: 3000 });
+    } else {
+      timeoutId = globalThis.setTimeout(() => {
+        boot();
+      }, 3000);
+    }
 
     return () => {
       isActive = false;
+      detachInteractionListeners();
+      if (timeoutId !== null) globalThis.clearTimeout(timeoutId);
+      if (idleId !== null && browser.cancelIdleCallback) {
+        browser.cancelIdleCallback(idleId);
+      }
     };
   }, []);
 
