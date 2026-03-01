@@ -18,6 +18,7 @@ export default function HeroSection() {
           alt=""
           fill
           priority
+          fetchPriority="high"
           sizes="(max-width: 1232px) 100vw, 1232px"
           className="g_visual_img u-cover-absolute align-top"
         />
@@ -25,15 +26,14 @@ export default function HeroSection() {
           <h1 className="u-text-style-h1 u-mb-5">
             Turn your website<br />into your<br />‍<span
               className="u-text-syle-secondary"
-              >best salesperson</span
+              >revenue engine</span
             >
           </h1>
           <div
             className="g_paragraph w-richtext u-text-style-large u-mb-text u-max-width-40ch u-child-contain u-rich-text"
           >
             <p>
-              Get a site that looks great and performs even better—with
-              measurable results.
+              High-performance Framer & Web development for brands that care about speed, clarity, and conversions.
             </p>
           </div>
           <div className="u-display-contents">
@@ -49,16 +49,16 @@ export default function HeroSection() {
                     href="https://www.yungle.com.mx/contact"
                     className="g_clickable_link w-inline-block"
                     ><span className="g_clickable_text u-sr-only"
-                      >Book a call</span
+                      >Start a project</span
                     ></a
                   ><button type="button" className="g_clickable_btn">
                     <span className="g_clickable_text u-sr-only"
-                      >Book a call</span
+                      >Start a project</span
                     >
                   </button>
                 </div>
                 <div aria-hidden="true" className="btn_main_text">
-                  Book a call
+                  Start a project
                 </div>
                 <div
                   className="btn_icon-wpr w-variant-3b30c948-29d7-baec-d8a7-875cceb634d5"

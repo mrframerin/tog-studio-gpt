@@ -14,7 +14,7 @@ export default function BadgesSection() {
         <div
           className="g_paragraph w-richtext u-text-style-main u-max-width-50ch u-child-contain u-rich-text"
         >
-          <p>+80 projects in different industries</p>
+          <p>Trusted by founders, agencies, and growing startups</p>
         </div>
         <div className="badge_layout u-gap-4">
           <a
