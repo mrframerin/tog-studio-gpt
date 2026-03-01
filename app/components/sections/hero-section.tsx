@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 export default function HeroSection() {
   return (
 <section
@@ -11,17 +13,12 @@ export default function HeroSection() {
     ></div>
     <div className="u-container-inside">
       <div data-theme="dark" className="header_3_layout u-theme-dark">
-        <img
+        <Image
           src="/images/681182e39314ceec639d3855_hero-yungle-bg--4340a9b1.webp"
-          loading="eager"
-          sizes="(max-width: 1232px) 100vw, 1232px"
-          srcSet="
-            /images/681182e39314ceec639d3855_hero-yungle-bg-p-500--5571a903.webp   500w,
-            /images/681182e39314ceec639d3855_hero-yungle-bg-p-800--4abe10f5.webp   800w,
-            /images/681182e39314ceec639d3855_hero-yungle-bg-p-1080--a6d02667.webp 1080w,
-            /images/681182e39314ceec639d3855_hero-yungle-bg--4340a9b1.webp        1232w
-          "
           alt=""
+          fill
+          priority
+          sizes="(max-width: 1232px) 100vw, 1232px"
           className="g_visual_img u-cover-absolute align-top"
         />
         <div className="header_3_content u-margin-trim">

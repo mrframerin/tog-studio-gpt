@@ -36,14 +36,14 @@ export default function ProjectsSliderSection() {
               target="_blank"
               className="projects_slider-card w-inline-block"
               ><img
-                src="/images/682c4dd50579669b6c981b98_curated-bg-img--b2a37040.png"
+                src="/images/682c4dd50579669b6c981b98_curated-bg-img--b2a37040.webp"
                 loading="lazy"
                 style={{ backgroundColor: "#1a1a1a" }}
                 alt="Curated"
                 sizes="100vw"
                 srcSet="
-                  /images/682c4dd50579669b6c981b98_curated-bg-img-p-500--17b570ef.png 500w,
-                  /images/682c4dd50579669b6c981b98_curated-bg-img--b2a37040.png       790w
+                  /images/682c4dd50579669b6c981b98_curated-bg-img-p-500--17b570ef.webp 500w,
+                  /images/682c4dd50579669b6c981b98_curated-bg-img--b2a37040.webp       790w
                 "
                 className="projects_slider-card-img" />
               <div className="projects_slider-card-texts">
@@ -92,14 +92,14 @@ export default function ProjectsSliderSection() {
               target="_blank"
               className="projects_slider-card w-inline-block"
               ><img
-                src="/images/6883c6ebdadf2c21854e03f6_Cyberstarts-bg-img--b02d6aaa.png"
+                src="/images/6883c6ebdadf2c21854e03f6_Cyberstarts-bg-img--b02d6aaa.webp"
                 loading="lazy"
                 style={{ backgroundColor: "#5e5c49" }}
                 alt="Cyberstarts"
                 sizes="100vw"
                 srcSet="
-                  /images/6883c6ebdadf2c21854e03f6_Cyberstarts-bg-img-p-500--829933f3.png 500w,
-                  /images/6883c6ebdadf2c21854e03f6_Cyberstarts-bg-img--b02d6aaa.png       790w
+                  /images/6883c6ebdadf2c21854e03f6_Cyberstarts-bg-img-p-500--829933f3.webp 500w,
+                  /images/6883c6ebdadf2c21854e03f6_Cyberstarts-bg-img--b02d6aaa.webp       790w
                 "
                 className="projects_slider-card-img" />
               <div className="projects_slider-card-texts">
@@ -148,14 +148,14 @@ export default function ProjectsSliderSection() {
               target="_blank"
               className="projects_slider-card w-inline-block"
               ><img
-                src="/images/6917ceaa0fb10e6473a74488_Mountauk-Capital-bg-img--63f6d70c.png"
+                src="/images/6917ceaa0fb10e6473a74488_Mountauk-Capital-bg-img--63f6d70c.webp"
                 loading="lazy"
                 style={{ backgroundColor: "#e5e1db" }}
                 alt="Montauk Capital"
                 sizes="100vw"
                 srcSet="
-                  /images/6917ceaa0fb10e6473a74488_Mountauk-Capital-bg-img-p-500--50f99cdb.png 500w,
-                  /images/6917ceaa0fb10e6473a74488_Mountauk-Capital-bg-img--63f6d70c.png       790w
+                  /images/6917ceaa0fb10e6473a74488_Mountauk-Capital-bg-img-p-500--50f99cdb.webp 500w,
+                  /images/6917ceaa0fb10e6473a74488_Mountauk-Capital-bg-img--63f6d70c.webp       790w
                 "
                 className="projects_slider-card-img" />
               <div className="projects_slider-card-texts">
@@ -202,14 +202,14 @@ export default function ProjectsSliderSection() {
               target="_blank"
               className="projects_slider-card w-inline-block"
               ><img
-                src="/images/6929fcc759686b62243210a5_bdtmsd-bg-img--148dd328.png"
+                src="/images/6929fcc759686b62243210a5_bdtmsd-bg-img--148dd328.webp"
                 loading="lazy"
                 style={{ backgroundColor: "#1e1e3e" }}
                 alt="BDT&amp;MSD"
                 sizes="100vw"
                 srcSet="
-                  /images/6929fcc759686b62243210a5_bdtmsd-bg-img-p-500--30f79175.png 500w,
-                  /images/6929fcc759686b62243210a5_bdtmsd-bg-img--148dd328.png       790w
+                  /images/6929fcc759686b62243210a5_bdtmsd-bg-img-p-500--30f79175.webp 500w,
+                  /images/6929fcc759686b62243210a5_bdtmsd-bg-img--148dd328.webp       790w
                 "
                 className="projects_slider-card-img" />
               <div className="projects_slider-card-texts">
@@ -258,14 +258,14 @@ export default function ProjectsSliderSection() {
               target="_blank"
               className="projects_slider-card w-inline-block"
               ><img
-                src="/images/68e0617b1e4bf47531a0d6f5_toroto-bg-img--8363ad72.png"
+                src="/images/68e0617b1e4bf47531a0d6f5_toroto-bg-img--8363ad72.webp"
                 loading="lazy"
                 style={{ backgroundColor: "hsla(212.2826086956522, 100%, 36.08%, 1)" }}
                 alt="Toroto"
                 sizes="100vw"
                 srcSet="
-                  /images/68e0617b1e4bf47531a0d6f5_toroto-bg-img-p-500--59462e63.png 500w,
-                  /images/68e0617b1e4bf47531a0d6f5_toroto-bg-img--8363ad72.png       592w
+                  /images/68e0617b1e4bf47531a0d6f5_toroto-bg-img-p-500--59462e63.webp 500w,
+                  /images/68e0617b1e4bf47531a0d6f5_toroto-bg-img--8363ad72.webp       592w
                 "
                 className="projects_slider-card-img" />
               <div className="projects_slider-card-texts">
@@ -314,14 +314,14 @@ export default function ProjectsSliderSection() {
               target="_blank"
               className="projects_slider-card w-inline-block"
               ><img
-                src="/images/682c4d3cdee5833c7206da39_influur-bg-img--39af0021.png"
+                src="/images/682c4d3cdee5833c7206da39_influur-bg-img--39af0021.webp"
                 loading="lazy"
                 style={{ backgroundColor: "#ed652b" }}
                 alt="Influur"
                 sizes="100vw"
                 srcSet="
-                  /images/682c4d3cdee5833c7206da39_influur-bg-img-p-500--67b8f1e2.png 500w,
-                  /images/682c4d3cdee5833c7206da39_influur-bg-img--39af0021.png       790w
+                  /images/682c4d3cdee5833c7206da39_influur-bg-img-p-500--67b8f1e2.webp 500w,
+                  /images/682c4d3cdee5833c7206da39_influur-bg-img--39af0021.webp       790w
                 "
                 className="projects_slider-card-img" />
               <div className="projects_slider-card-texts">
@@ -370,14 +370,14 @@ export default function ProjectsSliderSection() {
               target="_blank"
               className="projects_slider-card w-inline-block"
               ><img
-                src="/images/685183beb33bafa25781101a_obviously-nyc-bg-img--35301eaf.png"
+                src="/images/685183beb33bafa25781101a_obviously-nyc-bg-img--35301eaf.webp"
                 loading="lazy"
                 style={{ backgroundColor: "#cdffd6" }}
                 alt="Obviously NYC"
                 sizes="100vw"
                 srcSet="
-                  /images/685183beb33bafa25781101a_obviously-nyc-bg-img-p-500--d835e23c.png 500w,
-                  /images/685183beb33bafa25781101a_obviously-nyc-bg-img--35301eaf.png       592w
+                  /images/685183beb33bafa25781101a_obviously-nyc-bg-img-p-500--d835e23c.webp 500w,
+                  /images/685183beb33bafa25781101a_obviously-nyc-bg-img--35301eaf.webp       592w
                 "
                 className="projects_slider-card-img" />
               <div className="projects_slider-card-texts">
@@ -426,14 +426,14 @@ export default function ProjectsSliderSection() {
               target="_blank"
               className="projects_slider-card w-inline-block"
               ><img
-                src="/images/688e2fec03efd2badab31168_Marketing-con-Melissa-bg-img--4985a5de.png"
+                src="/images/688e2fec03efd2badab31168_Marketing-con-Melissa-bg-img--4985a5de.webp"
                 loading="lazy"
                 style={{ backgroundColor: "#f3edf7" }}
                 alt="Marketing con Melissa"
                 sizes="100vw"
                 srcSet="
-                  /images/688e2fec03efd2badab31168_Marketing-con-Melissa-bg-img-p-500--adf3d0df.png 500w,
-                  /images/688e2fec03efd2badab31168_Marketing-con-Melissa-bg-img--4985a5de.png       790w
+                  /images/688e2fec03efd2badab31168_Marketing-con-Melissa-bg-img-p-500--adf3d0df.webp 500w,
+                  /images/688e2fec03efd2badab31168_Marketing-con-Melissa-bg-img--4985a5de.webp       790w
                 "
                 className="projects_slider-card-img" />
               <div className="projects_slider-card-texts">
@@ -484,14 +484,14 @@ export default function ProjectsSliderSection() {
               target="_blank"
               className="projects_slider-card w-inline-block"
               ><img
-                src="/images/682c513d22e61e1323c7164f_habitat-partners-bg-img--18b75b02.png"
+                src="/images/682c513d22e61e1323c7164f_habitat-partners-bg-img--18b75b02.webp"
                 loading="lazy"
                 style={{ backgroundColor: "#99d88a" }}
                 alt="Habitat Partners"
                 sizes="100vw"
                 srcSet="
-                  /images/682c513d22e61e1323c7164f_habitat-partners-bg-img-p-500--7ac6c18a.png 500w,
-                  /images/682c513d22e61e1323c7164f_habitat-partners-bg-img--18b75b02.png       790w
+                  /images/682c513d22e61e1323c7164f_habitat-partners-bg-img-p-500--7ac6c18a.webp 500w,
+                  /images/682c513d22e61e1323c7164f_habitat-partners-bg-img--18b75b02.webp       790w
                 "
                 className="projects_slider-card-img" />
               <div className="projects_slider-card-texts">
@@ -540,14 +540,14 @@ export default function ProjectsSliderSection() {
               target="_blank"
               className="projects_slider-card w-inline-block"
               ><img
-                src="/images/684f44bc477d0e98318fe628_bungalow-bg-img--f6768b92.png"
+                src="/images/684f44bc477d0e98318fe628_bungalow-bg-img--f6768b92.webp"
                 loading="lazy"
                 style={{ backgroundColor: "#fa9355" }}
                 alt="Bungalow 5"
                 sizes="100vw"
                 srcSet="
-                  /images/684f44bc477d0e98318fe628_bungalow-bg-img-p-500--79628d9b.png 500w,
-                  /images/684f44bc477d0e98318fe628_bungalow-bg-img--f6768b92.png       790w
+                  /images/684f44bc477d0e98318fe628_bungalow-bg-img-p-500--79628d9b.webp 500w,
+                  /images/684f44bc477d0e98318fe628_bungalow-bg-img--f6768b92.webp       790w
                 "
                 className="projects_slider-card-img" />
               <div className="projects_slider-card-texts">
@@ -596,14 +596,14 @@ export default function ProjectsSliderSection() {
               target="_blank"
               className="projects_slider-card w-inline-block"
               ><img
-                src="/images/682c50ca18ef09dcee24b1e3_dedupely-bg-img--4699ea0c.png"
+                src="/images/682c50ca18ef09dcee24b1e3_dedupely-bg-img--4699ea0c.webp"
                 loading="lazy"
                 style={{ backgroundColor: "hsla(197.9381443298969, 69.98%, 53.37%, 1)" }}
                 alt="Dedupely"
                 sizes="100vw"
                 srcSet="
-                  /images/682c50ca18ef09dcee24b1e3_dedupely-bg-img-p-500--f6022309.png 500w,
-                  /images/682c50ca18ef09dcee24b1e3_dedupely-bg-img--4699ea0c.png       790w
+                  /images/682c50ca18ef09dcee24b1e3_dedupely-bg-img-p-500--f6022309.webp 500w,
+                  /images/682c50ca18ef09dcee24b1e3_dedupely-bg-img--4699ea0c.webp       790w
                 "
                 className="projects_slider-card-img" />
               <div className="projects_slider-card-texts">
@@ -652,14 +652,14 @@ export default function ProjectsSliderSection() {
               target="_blank"
               className="projects_slider-card w-inline-block"
               ><img
-                src="/images/6917ce4ace5f7c0fa872b646_Volantis-bg-img--7ccc8d4b.png"
+                src="/images/6917ce4ace5f7c0fa872b646_Volantis-bg-img--7ccc8d4b.webp"
                 loading="lazy"
                 style={{ backgroundColor: "hsla(0, 0%, 100%, 1)" }}
                 alt="Volantis"
                 sizes="100vw"
                 srcSet="
-                  /images/6917ce4ace5f7c0fa872b646_Volantis-bg-img-p-500--1bfb8bb6.png 500w,
-                  /images/6917ce4ace5f7c0fa872b646_Volantis-bg-img--7ccc8d4b.png       790w
+                  /images/6917ce4ace5f7c0fa872b646_Volantis-bg-img-p-500--1bfb8bb6.webp 500w,
+                  /images/6917ce4ace5f7c0fa872b646_Volantis-bg-img--7ccc8d4b.webp       790w
                 "
                 className="projects_slider-card-img" />
               <div className="projects_slider-card-texts">
@@ -708,14 +708,14 @@ export default function ProjectsSliderSection() {
               target="_blank"
               className="projects_slider-card w-inline-block"
               ><img
-                src="/images/682c51887bf4a41e790c21bc_maena-bg-img--639e3e1f.png"
+                src="/images/682c51887bf4a41e790c21bc_maena-bg-img--639e3e1f.webp"
                 loading="lazy"
                 style={{ backgroundColor: "hsla(0, 0%, 0%, 1)" }}
                 alt="Maena"
                 sizes="100vw"
                 srcSet="
-                  /images/682c51887bf4a41e790c21bc_maena-bg-img-p-500--4f2f520e.png 500w,
-                  /images/682c51887bf4a41e790c21bc_maena-bg-img--639e3e1f.png       790w
+                  /images/682c51887bf4a41e790c21bc_maena-bg-img-p-500--4f2f520e.webp 500w,
+                  /images/682c51887bf4a41e790c21bc_maena-bg-img--639e3e1f.webp       790w
                 "
                 className="projects_slider-card-img" />
               <div className="projects_slider-card-texts">
@@ -764,14 +764,14 @@ export default function ProjectsSliderSection() {
               target="_blank"
               className="projects_slider-card w-inline-block"
               ><img
-                src="/images/682c4e45ae7a25cf0989d360_fifteenth-bg-img--b4f61310.png"
+                src="/images/682c4e45ae7a25cf0989d360_fifteenth-bg-img--b4f61310.webp"
                 loading="lazy"
                 style={{ backgroundColor: "#80e048" }}
                 alt="Fifteenth"
                 sizes="100vw"
                 srcSet="
-                  /images/682c4e45ae7a25cf0989d360_fifteenth-bg-img-p-500--3c8274e2.png 500w,
-                  /images/682c4e45ae7a25cf0989d360_fifteenth-bg-img--b4f61310.png       790w
+                  /images/682c4e45ae7a25cf0989d360_fifteenth-bg-img-p-500--3c8274e2.webp 500w,
+                  /images/682c4e45ae7a25cf0989d360_fifteenth-bg-img--b4f61310.webp       790w
                 "
                 className="projects_slider-card-img" />
               <div className="projects_slider-card-texts">

@@ -110,7 +110,7 @@ export default function FeaturesGridSection() {
         <div className="features_small-card">
           <div className="img_wpr">
             <img
-              src="/images/67edbf53412b258a87b71f53_conversion-card--98dceea6.png"
+              src="/images/67edbf53412b258a87b71f53_conversion-card--98dceea6.webp"
               loading="lazy"
               alt=""
               className="img"
