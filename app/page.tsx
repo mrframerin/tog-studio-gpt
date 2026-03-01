@@ -496,11 +496,11 @@ export default function Home() {
                 <div className="navbar_links">
                   <div className="navbar_links wpr">
                     <a
-                      href="https://www.yungle.com.mx/pricing"
+                      href="#pricing"
                       className="navbar_link w-inline-block"
                       ><div>Pricing</div></a
                     ><a
-                      href="https://www.yungle.com.mx/contact"
+                      href="#contact"
                       className="navbar_link w-inline-block"
                       ><div>Book a call</div></a
                     >
@@ -529,7 +529,7 @@ export default function Home() {
                         </div>
                         <div className="hamburger-nav__li">
                           <a
-                            href="https://www.yungle.com.mx/work"
+                            href="#work"
                             className="hamburger-nav__a w-inline-block"
                             ><p className="hamburger-nav__p">Work</p>
                             <div className="hamburger-nav__dot"></div
@@ -537,7 +537,7 @@ export default function Home() {
                         </div>
                         <div className="hamburger-nav__li">
                           <a
-                            href="https://www.yungle.com.mx/pricing"
+                            href="#pricing"
                             className="hamburger-nav__a w-inline-block"
                             ><p className="hamburger-nav__p">Pricing</p>
                             <div className="hamburger-nav__dot"></div
@@ -545,15 +545,15 @@ export default function Home() {
                         </div>
                         <div className="hamburger-nav__li">
                           <a
-                            href="https://www.yungle.com.mx/maintenance"
+                            href="#blogs"
                             className="hamburger-nav__a w-inline-block"
-                            ><p className="hamburger-nav__p">Maintenance</p>
+                            ><p className="hamburger-nav__p">Blogs</p>
                             <div className="hamburger-nav__dot"></div
                           ></a>
                         </div>
                         <div className="hamburger-nav__li">
                           <a
-                            href="https://www.yungle.com.mx/contact"
+                            href="#contact"
                             className="hamburger-nav__a w-inline-block"
                             ><p className="hamburger-nav__p">Contact</p>
                             <div className="hamburger-nav__dot"></div
@@ -705,6 +705,13 @@ export default function Home() {
     <style dangerouslySetInnerHTML={{ __html: `
       body {
         overscroll-behavior: none;
+      }
+    ` }} />
+
+    <style dangerouslySetInnerHTML={{ __html: `
+      #pricing,
+      a[href="#pricing"] {
+        display: none !important;
       }
     ` }} />
 

@@ -108,7 +108,7 @@ export default function PricingSection() {
                         <div className="g_clickable_wrap">
                           <a
                             target=""
-                            href="https://www.yungle.com.mx/contact"
+                            href="#contact"
                             className="g_clickable_link w-inline-block"
                             ><span className="g_clickable_text u-sr-only"
                               >Get started</span
@@ -209,7 +209,7 @@ export default function PricingSection() {
                         <div className="g_clickable_wrap">
                           <a
                             target=""
-                            href="https://www.yungle.com.mx/contact"
+                            href="#contact"
                             className="g_clickable_link w-inline-block"
                             ><span className="g_clickable_text u-sr-only"
                               >Book a call</span

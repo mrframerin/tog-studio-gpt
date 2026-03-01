@@ -1,6 +1,7 @@
 export default function ServicesSection() {
   return (
 <section
+  id="blogs"
   data-wf--section-services-cards--styles-theme="inherit"
   className="section_services"
 >
@@ -18,8 +19,7 @@ export default function ServicesSection() {
           ><span>?</span>
         </h2>
         <p>
-          It’s a <em>“I don’t have to worry about a thing”</em> type of
-          service.
+          Design. Build. Optimize.
         </p>
       </div>
       <div className="u-grid-autofit u-mb-8 is-services">
@@ -42,8 +42,7 @@ export default function ServicesSection() {
           <div className="service_card-content">
             <h3 className="u-text-style-h4 u-mb-3">Design</h3>
             <p className="u-opacity-90 u-max-width-40ch">
-              Conversion-driven designs that captivate users and guide
-              them toward action.
+              Strategy-led UX and modern UI built to drive clarity and conversion.
             </p>
           </div>
         </div>
@@ -64,10 +63,9 @@ export default function ServicesSection() {
           />
           <div className="service_card-img-wpr"></div>
           <div className="service_card-content">
-            <h3 className="u-text-style-h4 u-mb-3">Framer development</h3>
+            <h3 className="u-text-style-h4 u-mb-3">Development</h3>
             <p className="u-opacity-90 u-max-width-40ch">
-              High-performance Webflow sites that load fast, work
-              seamlessly, and are easy to manage.
+              Framer, Webflow, React, and Next.js builds - fast, scalable, and engineered for performance.
             </p>
           </div>
         </div>
@@ -88,10 +86,9 @@ export default function ServicesSection() {
           />
           <div className="service_card-img-wpr"></div>
           <div className="service_card-content">
-            <h3 className="u-text-style-h4 u-mb-3">SEO strategy</h3>
+            <h3 className="u-text-style-h4 u-mb-3">SEO</h3>
             <p className="u-opacity-90 u-max-width-40ch">
-              Strategies that drive qualified traffic through SEO and
-              website content creation.
+              Technical SEO, structured content, and optimization that improves visibility and long-term growth.
             </p>
           </div>
         </div>

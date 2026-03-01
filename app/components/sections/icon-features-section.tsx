@@ -12,11 +12,11 @@ export default function IconFeaturesSection() {
     <div className="u-container-inside">
       <div className="u-vflex-center-center u-mb-8 u-max-width-60ch">
         <h2 className="u-text-style-h2 u-mb-4">
-          What
+          What{" "}
           <span className="u-text-syle-secondary"
             >your current website</span
           >
-          should do
+          {" "}should do
         </h2>
       </div>
       <div className="u-grid-autofit u-mb-8">

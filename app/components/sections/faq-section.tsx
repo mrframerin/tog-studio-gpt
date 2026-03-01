@@ -25,7 +25,7 @@ export default function FaqSection() {
             />
             <div className="cta_sticky-window">
               <img
-                src="/images/67f01211c41a722cac2f6213_jorge-headshot--cb3d23a5.webp"
+                src="/images/tog-studio.png"
                 loading="lazy"
                 alt=""
                 className="cta_sticky-headshot u-mb-8"
@@ -41,7 +41,7 @@ export default function FaqSection() {
                 <div className="g_clickable_wrap">
                   <a
                     target=""
-                    href="https://www.yungle.com.mx/contact"
+                    href="#contact"
                     className="g_clickable_link w-inline-block"
                     ><span className="g_clickable_text u-sr-only"
                       >Book now</span
@@ -87,9 +87,9 @@ export default function FaqSection() {
               <p className="u-color-faded u-mt-6">
                 Prefer mail?
                 <a
-                  href="mailto:hola@yungle.com.mx"
+                  href="mailto:founding.togstudio@gmail.com"
                   className="u-color-brand"
-                  >hola@yungle.com.mx</a
+                  >founding.togstudio@gmail.com</a
                 >
               </p>
             </div>
@@ -111,7 +111,7 @@ export default function FaqSection() {
                     data-w-id="0c6835d3-0c67-3905-1bee-efcf51ccd387"
                     className="faq3_question div-block"
                   >
-                    <div>How does onboarding work?</div>
+                    <div>Do you handle both design and development?</div>
                     <div className="faq3_icon-wrapper">
                       <div className="icon-embed-small w-embed">
                         <svg
@@ -135,12 +135,7 @@ export default function FaqSection() {
                     <div className="margin-bottom margin-small">
                       <div className="u-rich-text w-richtext">
                         <p>
-                          We kick off with a 30-min strategy call to
-                          understand your goals, current setup, and main
-                          conversion challenges. Then, we audit your
-                          site and analytics, define key pages to
-                          optimize, and set our roadmap for the first
-                          30-60-90 days.
+                          Yes. We manage UX, UI, and full implementation, from wireframes to deployment.
                         </p>
                       </div>
                     </div>
@@ -156,7 +151,7 @@ export default function FaqSection() {
                     data-w-id="0c6835d3-0c67-3905-1bee-efcf51ccd387"
                     className="faq3_question div-block"
                   >
-                    <div>What’s included in the monthly retainer?</div>
+                    <div>Which platforms do you work with?</div>
                     <div className="faq3_icon-wrapper">
                       <div className="icon-embed-small w-embed">
                         <svg
@@ -180,12 +175,7 @@ export default function FaqSection() {
                     <div className="margin-bottom margin-small">
                       <div className="u-rich-text w-richtext">
                         <p>
-                          Ongoing design &amp; development support,
-                          AI-powered conversion optimization, custom A/B
-                          tests, analytics integration, communication
-                          through Slack, async updates via Notion,
-                          weekly performance check-ins, and monthly
-                          reports on your website performance.
+                          We build in Framer, Webflow, React, and Next.js, choosing the right stack based on performance needs, scalability, and project complexity.
                         </p>
                       </div>
                     </div>
@@ -201,7 +191,7 @@ export default function FaqSection() {
                     data-w-id="0c6835d3-0c67-3905-1bee-efcf51ccd387"
                     className="faq3_question div-block"
                   >
-                    <div>How long does a typical redesign take?</div>
+                    <div>Is SEO included in the project?</div>
                     <div className="faq3_icon-wrapper">
                       <div className="icon-embed-small w-embed">
                         <svg
@@ -225,10 +215,7 @@ export default function FaqSection() {
                     <div className="margin-bottom margin-small">
                       <div className="u-rich-text w-richtext">
                         <p>
-                          Most redesigns take 2–6 weeks from design to
-                          development, depending on the scope. We move
-                          fast by working async and iterating with your
-                          feedback.
+                          Yes. Every project includes technical SEO setup, structured content, and performance optimization.
                         </p>
                       </div>
                     </div>
@@ -245,7 +232,7 @@ export default function FaqSection() {
                     className="faq3_question div-block"
                   >
                     <div>
-                      How do you measure conversion improvements?
+                      How long does a project take?
                     </div>
                     <div className="faq3_icon-wrapper">
                       <div className="icon-embed-small w-embed">
@@ -270,11 +257,7 @@ export default function FaqSection() {
                     <div className="margin-bottom margin-small">
                       <div className="u-rich-text w-richtext">
                         <p>
-                          We set clear KPIs (sign-ups, purchases, form
-                          submissions) and track them using tools like
-                          Google Analytics, Hotjar, and A/B testing
-                          platforms. You&#x27;ll receive monthly reports
-                          showing the real impact.
+                          Typically 3-6 weeks depending on scope, complexity, and content readiness.
                         </p>
                       </div>
                     </div>
@@ -290,7 +273,7 @@ export default function FaqSection() {
                     data-w-id="0c6835d3-0c67-3905-1bee-efcf51ccd387"
                     className="faq3_question div-block"
                   >
-                    <div>Do I need to bring my own copy/content?</div>
+                    <div>When should we choose React or Next.js instead of no-code?</div>
                     <div className="faq3_icon-wrapper">
                       <div className="icon-embed-small w-embed">
                         <svg
@@ -314,12 +297,7 @@ export default function FaqSection() {
                     <div className="margin-bottom margin-small">
                       <div className="u-rich-text w-richtext">
                         <p>
-                          Not at all. We write conversion-focused copy
-                          for you—based on your value prop, audience,
-                          and page goals. If you already have content,
-                          we’ll improve and align it with our strategy.
-                          For images and illustrations, it depends on
-                          your audience and objectives.
+                          If your product requires custom functionality, complex logic, or scalability beyond marketing pages, custom engineering is the better choice.
                         </p>
                         <p>‍</p>
                       </div>
@@ -337,8 +315,7 @@ export default function FaqSection() {
                     className="faq3_question div-block"
                   >
                     <div>
-                      Do I need traffic to benefit from conversion
-                      optimization?
+                      Can you handle large CMS or content-heavy websites?
                     </div>
                     <div className="faq3_icon-wrapper">
                       <div className="icon-embed-small w-embed">
@@ -363,11 +340,7 @@ export default function FaqSection() {
                     <div className="margin-bottom margin-small">
                       <div className="u-rich-text w-richtext">
                         <p>
-                          Yes. While we can optimize structure and UX,
-                          data-driven decisions come from real user
-                          behavior. Ideally, your site should have at
-                          least 1,000 monthly visits to unlock the value
-                          of CRO.
+                          Yes. We build scalable CMS architectures designed to support large volumes of content.
                         </p>
                       </div>
                     </div>
@@ -383,7 +356,7 @@ export default function FaqSection() {
                     data-w-id="0c6835d3-0c67-3905-1bee-efcf51ccd387"
                     className="faq3_question div-block"
                   >
-                    <div>Is my user data safe with your AI tools?</div>
+                    <div>Do you offer ongoing support after launch?</div>
                     <div className="faq3_icon-wrapper">
                       <div className="icon-embed-small w-embed">
                         <svg
@@ -407,10 +380,7 @@ export default function FaqSection() {
                     <div className="margin-bottom margin-small">
                       <div className="u-rich-text w-richtext">
                         <p>
-                          Absolutely. We only use privacy-compliant
-                          tools (like GA4, Hotjar, or Webflow) that
-                          follow GDPR and other global standards. Your
-                          user data stays safe and anonymized.
+                          Yes. We provide performance monitoring, SEO improvements, and iterative enhancements through monthly retainers.
                         </p>
                       </div>
                     </div>
@@ -426,7 +396,7 @@ export default function FaqSection() {
                     data-w-id="0c6835d3-0c67-3905-1bee-efcf51ccd387"
                     className="faq3_question div-block"
                   >
-                    <div>How do we communicate?</div>
+                    <div>What is required before starting a project?</div>
                     <div className="faq3_icon-wrapper">
                       <div className="icon-embed-small w-embed">
                         <svg
@@ -450,11 +420,7 @@ export default function FaqSection() {
                     <div className="margin-bottom margin-small">
                       <div className="u-rich-text w-richtext">
                         <p>
-                          We run everything async via Slack, Figma,
-                          Notion and Bugherd. You get weekly updates,
-                          design previews, and monthly performance
-                          reports—without needing to micromanage
-                          anything.
+                          Clear business goals, content direction, and a defined scope. We guide you through the rest.
                         </p>
                       </div>
                     </div>
@@ -470,7 +436,7 @@ export default function FaqSection() {
                     data-w-id="0c6835d3-0c67-3905-1bee-efcf51ccd387"
                     className="faq3_question div-block"
                   >
-                    <div>Can I pause or cancel the subscription?</div>
+                    <div>How does pricing and payment work?</div>
                     <div className="faq3_icon-wrapper">
                       <div className="icon-embed-small w-embed">
                         <svg
@@ -494,9 +460,7 @@ export default function FaqSection() {
                     <div className="margin-bottom margin-small">
                       <div className="u-rich-text w-richtext">
                         <p>
-                          Yes. You can pause or cancel anytime directly
-                          through Stripe. No hard feelings, no hidden
-                          fees.
+                          Projects are scoped individually. Typically 50% upfront and 50% upon completion.
                         </p>
                       </div>
                     </div>

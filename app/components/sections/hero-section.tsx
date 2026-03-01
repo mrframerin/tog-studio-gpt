@@ -33,7 +33,7 @@ export default function HeroSection() {
             className="g_paragraph w-richtext u-text-style-large u-mb-text u-max-width-40ch u-child-contain u-rich-text"
           >
             <p>
-              High-performance Framer & Web development for brands that care about speed, clarity, and conversions.
+              We design, develop, and optimize high-performance websites that rank on search and convert visitors into customers.
             </p>
           </div>
           <div className="u-display-contents">
@@ -46,7 +46,7 @@ export default function HeroSection() {
                 <div className="g_clickable_wrap">
                   <a
                     target=""
-                    href="https://www.yungle.com.mx/contact"
+                    href="#contact"
                     className="g_clickable_link w-inline-block"
                     ><span className="g_clickable_text u-sr-only"
                       >Start a project</span

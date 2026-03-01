@@ -1,6 +1,7 @@
 export default function ProjectsSliderSection() {
   return (
 <section
+  id="work"
   data-wf--section-projects-slider--styles-theme="inherit"
   className="section_services"
 >
