@@ -1,11 +1,11 @@
 /* eslint-disable @next/next/no-sync-scripts */
-import InteractionFallback from "./components/interaction-fallback";
 import NavigationBehavior from "./components/navigation-behavior";
+import WebflowRuntime from "./components/webflow-runtime";
 
 export default function Home() {
   return (
     <>
-    <InteractionFallback />
+    <WebflowRuntime />
     <NavigationBehavior />
     <div className="page_wrap">
       <div className="page_code_wrap u-theme-dark">
@@ -813,8 +813,8 @@ export default function Home() {
                         className="btn_icon light-14"
                       >
                         <path
-                          fill-rule="evenodd"
-                          clip-rule="evenodd"
+                          fillRule="evenodd"
+                          clipRule="evenodd"
                           d="M31.8117 0L21.866 20H12.5242L16.6865 11.7111H16.4997C13.0659 16.2966 7.94255 19.315 0.642578 20V11.8259C0.642578 11.8259 5.31255 11.5421 8.05789 8.57306H0.642578V0.000157979H8.97659V7.05124L9.16365 7.05046L12.5693 0.000157979H18.872V7.00653L19.0591 7.00622L22.5924 0H31.8117Z"
                           fill="currentColor"
                         ></path>
@@ -2863,8 +2863,8 @@ export default function Home() {
                                   xmlns="http://www.w3.org/2000/svg"
                                 >
                                   <path
-                                    fill-rule="evenodd"
-                                    clip-rule="evenodd"
+                                    fillRule="evenodd"
+                                    clipRule="evenodd"
                                     d="M16.5303 20.8839C16.2374 21.1768 15.7626 21.1768 15.4697 20.8839L7.82318 13.2374C7.53029 12.9445 7.53029 12.4697 7.82318 12.1768L8.17674 11.8232C8.46963 11.5303 8.9445 11.5303 9.2374 11.8232L16 18.5858L22.7626 11.8232C23.0555 11.5303 23.5303 11.5303 23.8232 11.8232L24.1768 12.1768C24.4697 12.4697 24.4697 12.9445 24.1768 13.2374L16.5303 20.8839Z"
                                     fill="currentColor"
                                   />
@@ -2908,8 +2908,8 @@ export default function Home() {
                                   xmlns="http://www.w3.org/2000/svg"
                                 >
                                   <path
-                                    fill-rule="evenodd"
-                                    clip-rule="evenodd"
+                                    fillRule="evenodd"
+                                    clipRule="evenodd"
                                     d="M16.5303 20.8839C16.2374 21.1768 15.7626 21.1768 15.4697 20.8839L7.82318 13.2374C7.53029 12.9445 7.53029 12.4697 7.82318 12.1768L8.17674 11.8232C8.46963 11.5303 8.9445 11.5303 9.2374 11.8232L16 18.5858L22.7626 11.8232C23.0555 11.5303 23.5303 11.5303 23.8232 11.8232L24.1768 12.1768C24.4697 12.4697 24.4697 12.9445 24.1768 13.2374L16.5303 20.8839Z"
                                     fill="currentColor"
                                   />
@@ -2953,8 +2953,8 @@ export default function Home() {
                                   xmlns="http://www.w3.org/2000/svg"
                                 >
                                   <path
-                                    fill-rule="evenodd"
-                                    clip-rule="evenodd"
+                                    fillRule="evenodd"
+                                    clipRule="evenodd"
                                     d="M16.5303 20.8839C16.2374 21.1768 15.7626 21.1768 15.4697 20.8839L7.82318 13.2374C7.53029 12.9445 7.53029 12.4697 7.82318 12.1768L8.17674 11.8232C8.46963 11.5303 8.9445 11.5303 9.2374 11.8232L16 18.5858L22.7626 11.8232C23.0555 11.5303 23.5303 11.5303 23.8232 11.8232L24.1768 12.1768C24.4697 12.4697 24.4697 12.9445 24.1768 13.2374L16.5303 20.8839Z"
                                     fill="currentColor"
                                   />
@@ -2998,8 +2998,8 @@ export default function Home() {
                                   xmlns="http://www.w3.org/2000/svg"
                                 >
                                   <path
-                                    fill-rule="evenodd"
-                                    clip-rule="evenodd"
+                                    fillRule="evenodd"
+                                    clipRule="evenodd"
                                     d="M16.5303 20.8839C16.2374 21.1768 15.7626 21.1768 15.4697 20.8839L7.82318 13.2374C7.53029 12.9445 7.53029 12.4697 7.82318 12.1768L8.17674 11.8232C8.46963 11.5303 8.9445 11.5303 9.2374 11.8232L16 18.5858L22.7626 11.8232C23.0555 11.5303 23.5303 11.5303 23.8232 11.8232L24.1768 12.1768C24.4697 12.4697 24.4697 12.9445 24.1768 13.2374L16.5303 20.8839Z"
                                     fill="currentColor"
                                   />
@@ -3042,8 +3042,8 @@ export default function Home() {
                                   xmlns="http://www.w3.org/2000/svg"
                                 >
                                   <path
-                                    fill-rule="evenodd"
-                                    clip-rule="evenodd"
+                                    fillRule="evenodd"
+                                    clipRule="evenodd"
                                     d="M16.5303 20.8839C16.2374 21.1768 15.7626 21.1768 15.4697 20.8839L7.82318 13.2374C7.53029 12.9445 7.53029 12.4697 7.82318 12.1768L8.17674 11.8232C8.46963 11.5303 8.9445 11.5303 9.2374 11.8232L16 18.5858L22.7626 11.8232C23.0555 11.5303 23.5303 11.5303 23.8232 11.8232L24.1768 12.1768C24.4697 12.4697 24.4697 12.9445 24.1768 13.2374L16.5303 20.8839Z"
                                     fill="currentColor"
                                   />
@@ -3091,8 +3091,8 @@ export default function Home() {
                                   xmlns="http://www.w3.org/2000/svg"
                                 >
                                   <path
-                                    fill-rule="evenodd"
-                                    clip-rule="evenodd"
+                                    fillRule="evenodd"
+                                    clipRule="evenodd"
                                     d="M16.5303 20.8839C16.2374 21.1768 15.7626 21.1768 15.4697 20.8839L7.82318 13.2374C7.53029 12.9445 7.53029 12.4697 7.82318 12.1768L8.17674 11.8232C8.46963 11.5303 8.9445 11.5303 9.2374 11.8232L16 18.5858L22.7626 11.8232C23.0555 11.5303 23.5303 11.5303 23.8232 11.8232L24.1768 12.1768C24.4697 12.4697 24.4697 12.9445 24.1768 13.2374L16.5303 20.8839Z"
                                     fill="currentColor"
                                   />
@@ -3135,8 +3135,8 @@ export default function Home() {
                                   xmlns="http://www.w3.org/2000/svg"
                                 >
                                   <path
-                                    fill-rule="evenodd"
-                                    clip-rule="evenodd"
+                                    fillRule="evenodd"
+                                    clipRule="evenodd"
                                     d="M16.5303 20.8839C16.2374 21.1768 15.7626 21.1768 15.4697 20.8839L7.82318 13.2374C7.53029 12.9445 7.53029 12.4697 7.82318 12.1768L8.17674 11.8232C8.46963 11.5303 8.9445 11.5303 9.2374 11.8232L16 18.5858L22.7626 11.8232C23.0555 11.5303 23.5303 11.5303 23.8232 11.8232L24.1768 12.1768C24.4697 12.4697 24.4697 12.9445 24.1768 13.2374L16.5303 20.8839Z"
                                     fill="currentColor"
                                   />
@@ -3178,8 +3178,8 @@ export default function Home() {
                                   xmlns="http://www.w3.org/2000/svg"
                                 >
                                   <path
-                                    fill-rule="evenodd"
-                                    clip-rule="evenodd"
+                                    fillRule="evenodd"
+                                    clipRule="evenodd"
                                     d="M16.5303 20.8839C16.2374 21.1768 15.7626 21.1768 15.4697 20.8839L7.82318 13.2374C7.53029 12.9445 7.53029 12.4697 7.82318 12.1768L8.17674 11.8232C8.46963 11.5303 8.9445 11.5303 9.2374 11.8232L16 18.5858L22.7626 11.8232C23.0555 11.5303 23.5303 11.5303 23.8232 11.8232L24.1768 12.1768C24.4697 12.4697 24.4697 12.9445 24.1768 13.2374L16.5303 20.8839Z"
                                     fill="currentColor"
                                   />
@@ -3222,8 +3222,8 @@ export default function Home() {
                                   xmlns="http://www.w3.org/2000/svg"
                                 >
                                   <path
-                                    fill-rule="evenodd"
-                                    clip-rule="evenodd"
+                                    fillRule="evenodd"
+                                    clipRule="evenodd"
                                     d="M16.5303 20.8839C16.2374 21.1768 15.7626 21.1768 15.4697 20.8839L7.82318 13.2374C7.53029 12.9445 7.53029 12.4697 7.82318 12.1768L8.17674 11.8232C8.46963 11.5303 8.9445 11.5303 9.2374 11.8232L16 18.5858L22.7626 11.8232C23.0555 11.5303 23.5303 11.5303 23.8232 11.8232L24.1768 12.1768C24.4697 12.4697 24.4697 12.9445 24.1768 13.2374L16.5303 20.8839Z"
                                     fill="currentColor"
                                   />
@@ -3405,30 +3405,6 @@ export default function Home() {
         </section>
       </main>
     </div>
-    <script
-      src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=67ec5bee56ec8dfb35026e2b"
-      type="text/javascript"
-      integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
-      crossOrigin="anonymous"
-    ></script>
-    <script
-      src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/js/webflow.schunk.36b8fb49256177c8.js"
-      type="text/javascript"
-    ></script>
-    <script
-      src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/js/webflow.schunk.db282b75b7c3a9d9.js"
-      type="text/javascript"
-    ></script>
-    <script
-      src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/js/webflow.59b15c66.c2e5ca218d9958bc.js"
-      type="text/javascript"
-    ></script>
-    <script dangerouslySetInnerHTML={{ __html: `
-      $(function () {
-        $(".this-year").text(new Date().getFullYear());
-      });
-    ` }} />
-
     <style dangerouslySetInnerHTML={{ __html: `
       body {
         overscroll-behavior: none;
@@ -3541,75 +3517,6 @@ export default function Home() {
       }
     ` }} />
 
-    <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
-    <script dangerouslySetInnerHTML={{ __html: `
-      $(".slider-main_component").each(function (index) {
-        let loopMode = $(this).attr("loop-mode") === "true";
-        let sliderDuration =
-          $(this).attr("slider-duration") !== undefined
-            ? +$(this).attr("slider-duration")
-            : 300;
-
-        const swiper = new Swiper($(this).find(".swiper")[0], {
-          speed: sliderDuration,
-          loop: loopMode,
-          autoHeight: false,
-          centeredSlides: false,
-          followFinger: true,
-          freeMode: false,
-          slideToClickedSlide: false,
-          slidesPerView: "auto",
-          spaceBetween: 0,
-          rewind: false,
-          mousewheel: {
-            forceToAxis: true,
-          },
-          keyboard: {
-            enabled: true,
-            onlyInViewport: true,
-          },
-          breakpoints: {
-            480: {
-              slidesPerView: "auto",
-              spaceBetween: 16,
-            },
-            768: {
-              slidesPerView: 2,
-              spaceBetween: 0,
-            },
-            992: {
-              slidesPerView: 3,
-              spaceBetween: 0,
-            },
-          },
-          pagination: {
-            el: $(this).find(".swiper-bullet-wrapper")[0],
-            bulletActiveClass: "is-active",
-            bulletClass: "swiper-bullet",
-            bulletElement: "button",
-            clickable: true,
-          },
-          navigation: {
-            nextEl: $(this).find(".swiper-next")[0],
-            prevEl: $(this).find(".swiper-prev")[0],
-            disabledClass: "is-disabled",
-          },
-          scrollbar: {
-            el: $(this).find(".swiper-drag-wrapper")[0],
-            draggable: true,
-            dragClass: "swiper-drag",
-            snapOnRelease: true,
-          },
-          slideActiveClass: "is-active",
-          slideDuplicateActiveClass: "is-active",
-        });
-
-        setTimeout(() => {
-          $(this).find(".swiper").css("overflow", "visible");
-        }, 100);
-      });
-    ` }} />
-  
     </>
   );
 }
