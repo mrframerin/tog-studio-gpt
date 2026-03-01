@@ -28,13 +28,13 @@ export default function ServicesSection() {
           className="services_card"
         >
           <img
-            src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/68117fff61967b86a148120c_card%20bg%20design%202.webp"
+            src="/images/68117fff61967b86a148120c_card-bg-design-2--fa99b620.webp"
             loading="lazy"
             alt=""
             sizes="(max-width: 767px) 100vw, 726px"
             srcSet="
-              https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/68117fff61967b86a148120c_card%20bg%20design%202-p-500.webp 500w,
-              https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/68117fff61967b86a148120c_card%20bg%20design%202.webp       726w
+              /images/68117fff61967b86a148120c_card-bg-design-2-p-500--2b39f93c.webp 500w,
+              /images/68117fff61967b86a148120c_card-bg-design-2--fa99b620.webp       726w
             "
             className="g_visual_img u-cover-absolute"
           />
@@ -52,13 +52,13 @@ export default function ServicesSection() {
           className="services_card"
         >
           <img
-            src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/68118175d323346f55bec78a_yungle%20webflow%20bg%201.webp"
+            src="/images/68118175d323346f55bec78a_yungle-webflow-bg-1--53949b50.webp"
             loading="lazy"
             alt=""
             sizes="(max-width: 767px) 100vw, 726px"
             srcSet="
-              https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/68118175d323346f55bec78a_yungle%20webflow%20bg%201-p-500.webp 500w,
-              https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/68118175d323346f55bec78a_yungle%20webflow%20bg%201.webp       726w
+              /images/68118175d323346f55bec78a_yungle-webflow-bg-1-p-500--22c784f3.webp 500w,
+              /images/68118175d323346f55bec78a_yungle-webflow-bg-1--53949b50.webp       726w
             "
             className="g_visual_img u-cover-absolute"
           />
@@ -76,13 +76,13 @@ export default function ServicesSection() {
           className="services_card"
         >
           <img
-            src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/6811810b2d3396c1ad04a3f4_yungle%20seo%20bg.webp"
+            src="/images/6811810b2d3396c1ad04a3f4_yungle-seo-bg--562c7c87.webp"
             loading="lazy"
             alt=""
             sizes="(max-width: 767px) 100vw, 726px"
             srcSet="
-              https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/6811810b2d3396c1ad04a3f4_yungle%20seo%20bg-p-500.webp 500w,
-              https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/6811810b2d3396c1ad04a3f4_yungle%20seo%20bg.webp       726w
+              /images/6811810b2d3396c1ad04a3f4_yungle-seo-bg-p-500--f8fd1483.webp 500w,
+              /images/6811810b2d3396c1ad04a3f4_yungle-seo-bg--562c7c87.webp       726w
             "
             className="g_visual_img u-cover-absolute"
           />
@@ -102,7 +102,7 @@ export default function ServicesSection() {
         >
           <div className="badges_logo-wpr">
             <img
-              src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/67ed46e591835f773aa0bc74_Curated.webp"
+              src="/images/67ed46e591835f773aa0bc74_Curated--f07efce2.webp"
               loading="lazy"
               alt=""
               className="badges_logo"
@@ -110,7 +110,7 @@ export default function ServicesSection() {
           </div>
           <div className="badges_logo-wpr">
             <img
-              src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/67edbe80b048d635e8194b0d_Influur%20black.webp"
+              src="/images/67edbe80b048d635e8194b0d_Influur-black--60ff5025.webp"
               loading="lazy"
               alt=""
               className="badges_logo"
@@ -118,7 +118,7 @@ export default function ServicesSection() {
           </div>
           <div className="badges_logo-wpr">
             <img
-              src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/67ed46e6de5b8e48c0b614fc_Red%20Antler.webp"
+              src="/images/67ed46e6de5b8e48c0b614fc_Red-Antler--58f2b8ce.webp"
               loading="lazy"
               alt=""
               className="badges_logo"
@@ -126,7 +126,7 @@ export default function ServicesSection() {
           </div>
           <div className="badges_logo-wpr">
             <img
-              src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/67edbe8648c7ac51153c16ee_Adgoritmo%20black.webp"
+              src="/images/67edbe8648c7ac51153c16ee_Adgoritmo-black--cc1dff5a.webp"
               loading="lazy"
               alt=""
               className="badges_logo"
@@ -134,7 +134,7 @@ export default function ServicesSection() {
           </div>
           <div className="badges_logo-wpr">
             <img
-              src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/67edbe80f42ca6fb2302458b_Dedupely%20black.webp"
+              src="/images/67edbe80f42ca6fb2302458b_Dedupely-black--0c936686.webp"
               loading="lazy"
               alt=""
               className="badges_logo"

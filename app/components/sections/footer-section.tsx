@@ -16,7 +16,7 @@ export default function FooterSection() {
             href="#"
             className="footer_logo-link u-mb-10 w-inline-block"
             ><img
-              src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/67f0027b3d6d5abe931d03f0_logo%20wpr.webp"
+              src="/images/67f0027b3d6d5abe931d03f0_logo-wpr--f12d7795.webp"
               loading="lazy"
               alt=""
               className="footer_logo"
@@ -112,15 +112,15 @@ export default function FooterSection() {
           >
             <div className="g_visual_background u-cover-absolute"></div>
             <img
-              src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/68117a1e29aacfbe04d562b1_yungle%20design%20bg.webp"
+              src="/images/68117a1e29aacfbe04d562b1_yungle-design-bg--df93499c.webp"
               loading="lazy"
               alt=""
               sizes="(max-width: 1232px) 100vw, 1232px"
               srcSet="
-                https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/68117a1e29aacfbe04d562b1_yungle%20design%20bg-p-500.webp   500w,
-                https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/68117a1e29aacfbe04d562b1_yungle%20design%20bg-p-800.webp   800w,
-                https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/68117a1e29aacfbe04d562b1_yungle%20design%20bg-p-1080.webp 1080w,
-                https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/68117a1e29aacfbe04d562b1_yungle%20design%20bg.webp        1232w
+                /images/68117a1e29aacfbe04d562b1_yungle-design-bg-p-500--f5e381ea.webp   500w,
+                /images/68117a1e29aacfbe04d562b1_yungle-design-bg-p-800--c1cfa93b.webp   800w,
+                /images/68117a1e29aacfbe04d562b1_yungle-design-bg-p-1080--ddf0ab07.webp 1080w,
+                /images/68117a1e29aacfbe04d562b1_yungle-design-bg--df93499c.webp        1232w
               "
               className="g_visual_img u-cover-absolute"
             />

@@ -50,13 +50,13 @@ export default function PricingSection() {
                   <img
                     sizes="(max-width: 1232px) 100vw, 1232px"
                     srcSet="
-                      https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/681176bb2936b547a7505ec7_yungle%20webflow%20bg-p-500.webp   500w,
-                      https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/681176bb2936b547a7505ec7_yungle%20webflow%20bg-p-800.webp   800w,
-                      https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/681176bb2936b547a7505ec7_yungle%20webflow%20bg-p-1080.webp 1080w,
-                      https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/681176bb2936b547a7505ec7_yungle%20webflow%20bg.webp        1232w
+                      /images/681176bb2936b547a7505ec7_yungle-webflow-bg-p-500--c7f74c81.webp   500w,
+                      /images/681176bb2936b547a7505ec7_yungle-webflow-bg-p-800--41acbacd.webp   800w,
+                      /images/681176bb2936b547a7505ec7_yungle-webflow-bg-p-1080--be0d1f05.webp 1080w,
+                      /images/681176bb2936b547a7505ec7_yungle-webflow-bg--e896304d.webp        1232w
                     "
                     alt=""
-                    src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/681176bb2936b547a7505ec7_yungle%20webflow%20bg.webp"
+                    src="/images/681176bb2936b547a7505ec7_yungle-webflow-bg--e896304d.webp"
                     loading="lazy"
                     className="cta_sticky-bg"
                   />
@@ -163,13 +163,13 @@ export default function PricingSection() {
                   <img
                     sizes="100vw"
                     srcSet="
-                      https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/681177f82e50324c71b9d6e1_card%20bg%20seo-p-500.webp   500w,
-                      https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/681177f82e50324c71b9d6e1_card%20bg%20seo-p-800.webp   800w,
-                      https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/681177f82e50324c71b9d6e1_card%20bg%20seo-p-1080.webp 1080w,
-                      https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/681177f82e50324c71b9d6e1_card%20bg%20seo.webp        1232w
+                      /images/681177f82e50324c71b9d6e1_card-bg-seo-p-500--4b1e2e63.webp   500w,
+                      /images/681177f82e50324c71b9d6e1_card-bg-seo-p-800--f0ffca34.webp   800w,
+                      /images/681177f82e50324c71b9d6e1_card-bg-seo-p-1080--be38d61c.webp 1080w,
+                      /images/681177f82e50324c71b9d6e1_card-bg-seo--63518867.webp        1232w
                     "
                     alt=""
-                    src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/681177f82e50324c71b9d6e1_card%20bg%20seo.webp"
+                    src="/images/681177f82e50324c71b9d6e1_card-bg-seo--63518867.webp"
                     loading="lazy"
                     className="cta_sticky-bg"
                   />
@@ -271,15 +271,15 @@ export default function PricingSection() {
           </p>
           <div className="testimonial_info">
             <img
-              src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/67f01c2e3624b187b3bfa24e_Ryan%20webb%20ragu.ai.webp"
+              src="/images/67f01c2e3624b187b3bfa24e_Ryan-webb-ragu.ai--8382b357.webp"
               loading="lazy"
               alt=""
               sizes="100vw"
               srcSet="
-                https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/67f01c2e3624b187b3bfa24e_Ryan%20webb%20ragu.ai-p-500.webp   500w,
-                https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/67f01c2e3624b187b3bfa24e_Ryan%20webb%20ragu.ai-p-800.webp   800w,
-                https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/67f01c2e3624b187b3bfa24e_Ryan%20webb%20ragu.ai-p-1080.webp 1080w,
-                https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/67f01c2e3624b187b3bfa24e_Ryan%20webb%20ragu.ai.webp        2400w
+                /images/67f01c2e3624b187b3bfa24e_Ryan-webb-ragu.ai-p-500--f89c4685.webp   500w,
+                /images/67f01c2e3624b187b3bfa24e_Ryan-webb-ragu.ai-p-800--be800102.webp   800w,
+                /images/67f01c2e3624b187b3bfa24e_Ryan-webb-ragu.ai-p-1080--46ccc6d5.webp 1080w,
+                /images/67f01c2e3624b187b3bfa24e_Ryan-webb-ragu.ai--8382b357.webp        2400w
               "
               className="testimonial_img"
             />

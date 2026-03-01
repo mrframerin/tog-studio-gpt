@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     url: "https://yungle.com.mx",
     images: [
       {
-        url: "https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/682c42e160bd6c5e0fdf0bba_Yungle%2025%20Opengraph.webp"
+        url: "/images/682c42e160bd6c5e0fdf0bba_Yungle-25-Opengraph--6240df17.webp"
       }
     ]
   },
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     title: "Yungle | Webflow Experts",
     description,
     images: [
-      "https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/682c42e160bd6c5e0fdf0bba_Yungle%2025%20Opengraph.webp"
+      "/images/682c42e160bd6c5e0fdf0bba_Yungle-25-Opengraph--6240df17.webp"
     ]
   }
 };
@@ -64,12 +64,12 @@ export default function RootLayout({
           }}
         />
         <link
-          href="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/67ec5cef60d1e7fb51af1bf7_Yungle%2025%20favicon.png"
+          href="/images/67ec5cef60d1e7fb51af1bf7_Yungle-25-favicon--8fcc65ae.png"
           rel="shortcut icon"
           type="image/x-icon"
         />
         <link
-          href="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/67ec5cf2600d76568df52f0f_Yungle%2025%20webclip.png"
+          href="/images/67ec5cf2600d76568df52f0f_Yungle-25-webclip--929422dd.png"
           rel="apple-touch-icon"
         />
         <link rel="preconnect" href="https://cdn.prod.website-files.com" crossOrigin="anonymous" />

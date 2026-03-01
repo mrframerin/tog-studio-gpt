@@ -729,7 +729,7 @@ export default function Home() {
         "name": "Yungle",
         "alternateName": "Yungle Studio",
         "url": "https://yungle.com.mx",
-        "logo": "https://yungle.com.mx/logo.png",
+        "logo": "/images/67f0027b3d6d5abe931d03f0_logo-wpr--f12d7795.webp",
         "description": "Agencia de diseño y desarrollo web especializada en Webflow, branding y optimización de conversión (CRO). Transformamos sitios en máquinas de crecimiento para startups y negocios digitales.",
         "email": "hola@yungle.com.mx",
         "sameAs": [

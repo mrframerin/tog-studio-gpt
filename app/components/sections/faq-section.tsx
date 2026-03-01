@@ -11,21 +11,21 @@ export default function FaqSection() {
         <div className="cta_sticky-wpr">
           <div className="cta_sticky">
             <img
-              src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/681182e39314ceec639d3855_hero%20yungle%20bg.webp"
+              src="/images/681182e39314ceec639d3855_hero-yungle-bg--4340a9b1.webp"
               loading="lazy"
               sizes="(max-width: 1232px) 100vw, 1232px"
               srcSet="
-                https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/681182e39314ceec639d3855_hero%20yungle%20bg-p-500.webp   500w,
-                https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/681182e39314ceec639d3855_hero%20yungle%20bg-p-800.webp   800w,
-                https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/681182e39314ceec639d3855_hero%20yungle%20bg-p-1080.webp 1080w,
-                https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/681182e39314ceec639d3855_hero%20yungle%20bg.webp        1232w
+                /images/681182e39314ceec639d3855_hero-yungle-bg-p-500--5571a903.webp   500w,
+                /images/681182e39314ceec639d3855_hero-yungle-bg-p-800--4abe10f5.webp   800w,
+                /images/681182e39314ceec639d3855_hero-yungle-bg-p-1080--a6d02667.webp 1080w,
+                /images/681182e39314ceec639d3855_hero-yungle-bg--4340a9b1.webp        1232w
               "
               alt=""
               className="cta_sticky-bg"
             />
             <div className="cta_sticky-window">
               <img
-                src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/67f01211c41a722cac2f6213_jorge%20headshot.webp"
+                src="/images/67f01211c41a722cac2f6213_jorge-headshot--cb3d23a5.webp"
                 loading="lazy"
                 alt=""
                 className="cta_sticky-headshot u-mb-8"

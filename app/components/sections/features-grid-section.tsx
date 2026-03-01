@@ -22,14 +22,14 @@ export default function FeaturesGridSection() {
         <div className="features_img-space"></div>
         <div className="features_grid-img-wpr">
           <img
-            src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/6812b201dd5e3041da84a075_Custom%20experience%202.webp"
+            src="/images/6812b201dd5e3041da84a075_Custom-experience-2--e1e91ec5.webp"
             loading="lazy"
             sizes="100vw"
             srcSet="
-              https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/6812b201dd5e3041da84a075_Custom%20experience%202-p-500.webp   500w,
-              https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/6812b201dd5e3041da84a075_Custom%20experience%202-p-800.webp   800w,
-              https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/6812b201dd5e3041da84a075_Custom%20experience%202-p-1080.webp 1080w,
-              https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/6812b201dd5e3041da84a075_Custom%20experience%202.webp        1312w
+              /images/6812b201dd5e3041da84a075_Custom-experience-2-p-500--b2792ad0.webp   500w,
+              /images/6812b201dd5e3041da84a075_Custom-experience-2-p-800--12d37d41.webp   800w,
+              /images/6812b201dd5e3041da84a075_Custom-experience-2-p-1080--5146f781.webp 1080w,
+              /images/6812b201dd5e3041da84a075_Custom-experience-2--e1e91ec5.webp        1312w
             "
             alt=""
             className="features_grid-img"
@@ -50,14 +50,14 @@ export default function FeaturesGridSection() {
         <div className="features_img-space"></div>
         <div className="features_grid-img-wpr">
           <img
-            src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/6812b21303208fc54898bf77_AB%20testing%20with%20AI%202.webp"
+            src="/images/6812b21303208fc54898bf77_AB-testing-with-AI-2--ddccb61f.webp"
             loading="lazy"
             sizes="100vw"
             srcSet="
-              https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/6812b21303208fc54898bf77_AB%20testing%20with%20AI%202-p-500.webp   500w,
-              https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/6812b21303208fc54898bf77_AB%20testing%20with%20AI%202-p-800.webp   800w,
-              https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/6812b21303208fc54898bf77_AB%20testing%20with%20AI%202-p-1080.webp 1080w,
-              https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/6812b21303208fc54898bf77_AB%20testing%20with%20AI%202.webp        1312w
+              /images/6812b21303208fc54898bf77_AB-testing-with-AI-2-p-500--bb018b9f.webp   500w,
+              /images/6812b21303208fc54898bf77_AB-testing-with-AI-2-p-800--560e0b3d.webp   800w,
+              /images/6812b21303208fc54898bf77_AB-testing-with-AI-2-p-1080--9d2e90c8.webp 1080w,
+              /images/6812b21303208fc54898bf77_AB-testing-with-AI-2--ddccb61f.webp        1312w
             "
             alt=""
             className="features_grid-img"
@@ -78,7 +78,7 @@ export default function FeaturesGridSection() {
         <div className="features_small-card">
           <div className="img_wpr">
             <img
-              src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/67f01037245d65fc6d967242_cta%20bg.webp"
+              src="/images/67f01037245d65fc6d967242_cta-bg--a9321abb.webp"
               loading="lazy"
               alt=""
               className="img"
@@ -94,7 +94,7 @@ export default function FeaturesGridSection() {
         <div className="features_small-card">
           <div className="img_wpr">
             <img
-              src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/67f136baf71b33ff4c138631_pricing%201%20bg.webp"
+              src="/images/67f136baf71b33ff4c138631_pricing-1-bg--afa7043e.webp"
               loading="lazy"
               alt=""
               className="img"
@@ -110,7 +110,7 @@ export default function FeaturesGridSection() {
         <div className="features_small-card">
           <div className="img_wpr">
             <img
-              src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/67edbf53412b258a87b71f53_conversion%20card.png"
+              src="/images/67edbf53412b258a87b71f53_conversion-card--98dceea6.png"
               loading="lazy"
               alt=""
               className="img"
@@ -128,7 +128,7 @@ export default function FeaturesGridSection() {
         <div className="features_small-card">
           <div className="img_wpr">
             <img
-              src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/67eee36d1c775a612acd9cd8_card%20bg%20seo.webp"
+              src="/images/67eee36d1c775a612acd9cd8_card-bg-seo--82a09aca.webp"
               loading="lazy"
               alt=""
               className="img"
@@ -144,7 +144,7 @@ export default function FeaturesGridSection() {
         <div className="features_small-card">
           <div className="img_wpr">
             <img
-              src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/67f006374adfba438e208197_cal%20bg.webp"
+              src="/images/67f006374adfba438e208197_cal-bg--b060e984.webp"
               loading="lazy"
               alt=""
               className="img"

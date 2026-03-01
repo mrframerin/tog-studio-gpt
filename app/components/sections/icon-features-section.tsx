@@ -23,7 +23,7 @@ export default function IconFeaturesSection() {
         <div className="feature_icon-card">
           <div className="feature_icon-wpr">
             <img
-              src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/682c405b8b8044ff6d4a26b6_icon%201%20expectation.webp"
+              src="/images/682c405b8b8044ff6d4a26b6_icon-1-expectation--e92345c2.webp"
               loading="lazy"
               alt=""
               className="feature_icon"
@@ -40,7 +40,7 @@ export default function IconFeaturesSection() {
         <div className="feature_icon-card">
           <div className="feature_icon-wpr">
             <img
-              src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/682c4090e3c593c77786f66c_icon%202%20expectation.webp"
+              src="/images/682c4090e3c593c77786f66c_icon-2-expectation--51e9ab17.webp"
               loading="lazy"
               alt=""
               className="feature_icon"
@@ -56,7 +56,7 @@ export default function IconFeaturesSection() {
         <div className="feature_icon-card">
           <div className="feature_icon-wpr">
             <img
-              src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/682c40b44103ef752833d1b0_icon%203%20expectation.webp"
+              src="/images/682c40b44103ef752833d1b0_icon-3-expectation--b5778f72.webp"
               loading="lazy"
               alt=""
               className="feature_icon"

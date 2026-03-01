@@ -21,7 +21,7 @@ export default function TestimonialSection() {
           </div>
           <div className="testimonial_info">
             <img
-              src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/67edc88366c2c7c0bbfd2267_hampus%20headshot.webp"
+              src="/images/67edc88366c2c7c0bbfd2267_hampus-headshot--4996e5f3.webp"
               loading="lazy"
               alt=""
               className="testimonial_img"

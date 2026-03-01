@@ -97,7 +97,7 @@ export default function BadgesSection() {
         >
           <div className="badges_logo-wpr">
             <img
-              src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/67ed46e591835f773aa0bc74_Curated.webp"
+              src="/images/67ed46e591835f773aa0bc74_Curated--f07efce2.webp"
               loading="lazy"
               alt=""
               className="badges_logo"
@@ -105,7 +105,7 @@ export default function BadgesSection() {
           </div>
           <div className="badges_logo-wpr">
             <img
-              src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/67ed46e630f171d46748258e_Influur.webp"
+              src="/images/67ed46e630f171d46748258e_Influur--858b2b85.webp"
               loading="lazy"
               alt=""
               className="badges_logo"
@@ -113,7 +113,7 @@ export default function BadgesSection() {
           </div>
           <div className="badges_logo-wpr">
             <img
-              src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/67ed46e6de5b8e48c0b614fc_Red%20Antler.webp"
+              src="/images/67ed46e6de5b8e48c0b614fc_Red-Antler--58f2b8ce.webp"
               loading="lazy"
               alt=""
               className="badges_logo"
@@ -121,7 +121,7 @@ export default function BadgesSection() {
           </div>
           <div className="badges_logo-wpr">
             <img
-              src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/67ed46e5fd01935667b19abd_Adgoritmo.webp"
+              src="/images/67ed46e5fd01935667b19abd_Adgoritmo--0cb5aa17.webp"
               loading="lazy"
               alt=""
               className="badges_logo"
@@ -129,7 +129,7 @@ export default function BadgesSection() {
           </div>
           <div className="badges_logo-wpr">
             <img
-              src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/67ed46e5b423c93557c6365d_Duventus.webp"
+              src="/images/67ed46e5b423c93557c6365d_Duventus--c59353a0.webp"
               loading="lazy"
               alt=""
               className="badges_logo"
@@ -137,7 +137,7 @@ export default function BadgesSection() {
           </div>
           <div className="badges_logo-wpr">
             <img
-              src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/67ed478ebb37b0ed54b7f22b_Dedupely.webp"
+              src="/images/67ed478ebb37b0ed54b7f22b_Dedupely--78e9009b.webp"
               loading="lazy"
               alt=""
               className="badges_logo"
@@ -145,7 +145,7 @@ export default function BadgesSection() {
           </div>
           <div className="badges_logo-wpr">
             <img
-              src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/67ed51ad471ca6c6a854edf1_Maena.webp"
+              src="/images/67ed51ad471ca6c6a854edf1_Maena--454bedd8.webp"
               loading="lazy"
               alt=""
               className="badges_logo"
@@ -153,7 +153,7 @@ export default function BadgesSection() {
           </div>
           <div className="badges_logo-wpr">
             <img
-              src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/67ed51aeeda4fee87ac31a67_Kohl%20School.webp"
+              src="/images/67ed51aeeda4fee87ac31a67_Kohl-School--94ff980c.webp"
               loading="lazy"
               alt=""
               className="badges_logo"
@@ -161,7 +161,7 @@ export default function BadgesSection() {
           </div>
           <div className="badges_logo-wpr">
             <img
-              src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/67ed51ad712dde8694ba63ae_Hotel%20Cariongo.webp"
+              src="/images/67ed51ad712dde8694ba63ae_Hotel-Cariongo--a783d7ea.webp"
               loading="lazy"
               alt=""
               className="badges_logo"
@@ -169,7 +169,7 @@ export default function BadgesSection() {
           </div>
           <div className="badges_logo-wpr">
             <img
-              src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/67ed51ad96621cba7c7b3ac1_Roundbox.webp"
+              src="/images/67ed51ad96621cba7c7b3ac1_Roundbox--6061406c.webp"
               loading="lazy"
               alt=""
               className="badges_logo"
@@ -177,7 +177,7 @@ export default function BadgesSection() {
           </div>
           <div className="badges_logo-wpr">
             <img
-              src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/67ed51adc437c08c16040316_Liks.webp"
+              src="/images/67ed51adc437c08c16040316_Liks--240fe589.webp"
               loading="lazy"
               alt=""
               className="badges_logo"
@@ -185,7 +185,7 @@ export default function BadgesSection() {
           </div>
           <div className="badges_logo-wpr">
             <img
-              src="https://cdn.prod.website-files.com/67ec5bee56ec8dfb35026e2b/67ed51ad1b6e1fc5d342b9cf_Wildfruit.webp"
+              src="/images/67ed51ad1b6e1fc5d342b9cf_Wildfruit--86202e27.webp"
               loading="lazy"
               alt=""
               className="badges_logo"
