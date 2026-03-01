@@ -40,6 +40,8 @@ export default function RootLayout({
   return (
     <html
       lang="en"
+      className="w-mod-js"
+      suppressHydrationWarning
       data-wf-domain="www.yungle.com.mx"
       data-wf-page="67ec5bee56ec8dfb35026e20"
       data-wf-site="67ec5bee56ec8dfb35026e2b"
@@ -58,7 +60,7 @@ export default function RootLayout({
           type="text/javascript"
           dangerouslySetInnerHTML={{
             __html:
-              "!(function (o, c) { var n = c.documentElement, t = ' w-mod-'; n.className += t + 'js'; ('ontouchstart' in o || (o.DocumentTouch && c instanceof DocumentTouch)) && (n.className += t + 'touch'); })(window, document);"
+              "!(function (o, c) { var n = c.documentElement; n.classList.add('w-mod-js'); ('ontouchstart' in o || (o.DocumentTouch && c instanceof DocumentTouch)) && n.classList.add('w-mod-touch'); })(window, document);"
           }}
         />
         <link
