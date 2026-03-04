@@ -73,11 +73,11 @@ export default function RootLayout({
           rel="apple-touch-icon"
         />
         <link rel="preconnect" href="https://cdn.prod.website-files.com" crossOrigin="anonymous" />
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-SXJ2YT8DVZ"></script>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-S9H0V1KFSX"></script>
         <script
           dangerouslySetInnerHTML={{
             __html:
-              "window.dataLayer = window.dataLayer || []; function gtag(){ dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-SXJ2YT8DVZ');"
+              "window.dataLayer = window.dataLayer || []; function gtag(){ dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-S9H0V1KFSX');"
           }}
         />
         <link
